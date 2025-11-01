@@ -1,1 +1,0 @@
-# Schwartz-additif-method-for-PDEs
